@@ -7,4 +7,5 @@ Starter project to get some familiarity with the Django REST framework
 virtualenv env
 source env/bin/activate
 pip install -r requirements.txt
+./manage.py runserver
 ```
